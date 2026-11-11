@@ -24,6 +24,10 @@ We provide a `docker-compose.yml` file for easy deployment of Subatic, Subatic T
 
 The Docker Compose file includes health checks and proper service dependencies to ensure a smooth startup process.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Subatic/)
+
 ## Detailed Setup Instructions
 
 Follow these steps to get started:
